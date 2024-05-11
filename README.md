@@ -1,4 +1,4 @@
-[Hux Blog](https://huangxuan.me)
+[jaggf Blog](https://jaggf.github.io/)
 ================================
 
 > I never expected this to become popular.
