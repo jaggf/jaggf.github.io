@@ -11,7 +11,7 @@ tags: [doc, Markdown]
 3. Markdown语法
 4. else
 
-#什么是Markdown
+#什么是Mar
 - Markdown 是一种简单的、轻量级的标记语法
 - Markdown 的目标是实现「易读易写」
 - Markdown 让我们专注写作，而不是关注排版
