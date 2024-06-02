@@ -14,7 +14,7 @@ future: true
 # SNS settings
 RSS: false
 weibo_username: Jaggf
-zhihu_username: https://www.zhihu.com/people/ling-gan-lai-zi-yu-ni-74
+zhihu_username: ling-gan-lai-zi-yu-ni-74
 github_username: Jaggf
 twitter_username: Jaggf
 #facebook_username:  Jaggf
