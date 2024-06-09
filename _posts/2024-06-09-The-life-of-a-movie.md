@@ -9,7 +9,7 @@ tags:
     - 宫崎骏
     - 杂谈
 ---
-
+![avatar](https://upload-bbs.miyoushe.com/upload/2024/06/09/192840027/6ad191ec9ff9bd21142b07adbf8a8d5d_881269138220840890.jpg?x-oss-process=image/resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)
 > 宫崎骏的新作[《你想活出怎样的人生》](https://www.d5uu.com/dp/?372380-0-0.html) 电影推荐。
 
 主演：山时聪真,菅田将晖,柴崎幸,爱缪,木村佳乃,木村拓哉,国村隼,小林薰,火野正平,竹下景子,风吹淳,阿川佐和子,泷泽凯伦,大竹忍
