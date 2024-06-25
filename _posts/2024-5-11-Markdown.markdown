@@ -5,13 +5,13 @@ description: "Markdown入门指南，Markdown语法，Markdown优点"
 categories: doc
 tags: [doc, Markdown]
 ---
-#目录
+# 目录
 1. 什么是Markdown
 2. Markdown优点
 3. Markdown语法
 4. else
 
-#什么是Mar
+# 什么是Mar
 - Markdown 是一种简单的、轻量级的标记语法
 - Markdown 的目标是实现「易读易写」
 - Markdown 让我们专注写作，而不是关注排版
@@ -25,14 +25,14 @@ tags: [doc, Markdown]
 
 显示出来效果是酱紫的:
 
-##第三章 “水果”公司的复兴(乔布斯和苹果公司)
+## 第三章 “水果”公司的复兴(乔布斯和苹果公司)
 &emsp;&emsp;看过汤姆·汉克斯主演的电影 [《阿甘正传》][1] 的读者,也许还记得那么一个镜头。傻人有傻 福的阿甘最后捧着一张印有苹果公司标志的纸说,我买了一个水果公司的股票,有人说我这 一辈不用再为钱发愁了。那是九十年代初的电影,导演挑中了苹果公司,因为它的股票确实 在几年间涨了十倍。
 
 [1]: http://vip.iqiyi.com/20110805/d768b392b9ec5d37.html
 
 怎么样，是不是比HTML写起来爽很多，感觉萌萌哒
 
-#Markdown 优点
+# Markdown 优点
 - 纯文本，便于编辑和传播
 - 可读性好
 - 应用广泛，在 GitHub, Reddit, StackOverflow 等一大批网站的影响下，在互联网上应用很广
