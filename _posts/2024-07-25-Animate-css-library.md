@@ -4,8 +4,7 @@ title:        "Animate.css动画库下载、安装、使用与解析"
 author:       "jaggf"
 header-img: "img/post-bg-infinity.jpg"
 header-mask: 0.3
-header-style: text
-catalog:      true
+mathjax: true
 tags:
     - 动画库
     - Animate.css
